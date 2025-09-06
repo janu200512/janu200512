@@ -6,7 +6,9 @@
  <a href="https://x.com/JanuAhirwar?t=puzBJ5B-TjN1zD_gl9KAnw&s=09" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/janu-ahirwar-562bb6277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/ft.shiva_111" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-
+<a href="https://www.youtube.com/@Jaanu.x_lyricss" target="_blank">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF0000" style="vertical-align:center" />
+</a>
 
 # 👋 Thanks for Visiting my GitHub Profile!
 
