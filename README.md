@@ -28,9 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaGauravIn&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/janu ahirwar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto: januahirwar44@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/janu200512"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-</p>
+
