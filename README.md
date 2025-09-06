@@ -10,6 +10,7 @@
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF0000" style="vertical-align:center" />
 </a>
 
+
 <a href="https://linktr.ee/ft.jaanu_111" target="_blank">
   <img alt="Linktree" src="https://img.shields.io/badge/Linktree-000?style=for-the-badge&logo=linktree&logoColor=43E55E" style="vertical-align:center" />
 </a>
