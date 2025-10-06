@@ -70,8 +70,22 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=janu200512&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Holy](https://user-images.githubusercontent.com/71842138/130051116-59ce3e4c-97b6-4c6a-afdd-c82142e3d422.png)
+
+
+<div align = "center"> <h1> HolyTips </h1> 
+A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
+  
+<p align="center">
+  <br>
+  <a href="https://x.com/JanuAhirwar?t=puzBJ5B-TjN1zD_gl9KAnw&s=09">
+    <img src="https://img.shields.io/twitter/follow/holybugx?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/janu200512?tab=repositories tab=followers">
+    <img src="https://img.shields.io/github/followers/janu200512?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=janu200512&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
@@ -80,5 +94,7 @@
 [![](https://visitcount.itsvg.in/api?id=janu200512&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
