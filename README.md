@@ -95,6 +95,7 @@ A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Applic
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20about%20writing%20code,%20it%20is%20about%20solving%20problems%20and%20creating%20impact%20with%20logic&author=Jaanu..)
+
 
 
