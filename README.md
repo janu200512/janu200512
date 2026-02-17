@@ -34,8 +34,8 @@
 ## Tech Stack 💻
 #### LANGUAGES 
 ![python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-c++-000?style=for-the-badge&logo=c++&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logoHTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-css-000?style=for-the-badge&logo=c++&logoColor=white)
 
 #### HOSTING SAAS 
 ![Google cloud](https://img.shields.io/badge/-googlecloud-000?style=for-the-badge&logo=next.js)
